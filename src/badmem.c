@@ -4,7 +4,7 @@
 
 int *intarray;
 
-#define ARRAY_SIZE 256
+#define ARRAY_SIZE 20
 
 void print_num(int num) {
     int i = 0;
